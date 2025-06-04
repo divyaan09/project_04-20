@@ -1,4 +1,4 @@
-# 🧪 Simple Malware Scanner in Java (Without YARA)
+# 🧪 Simple Malware Scanner (Without YARA)
 
 A beginner-friendly Java project that scans files for known malware signatures using plain text pattern matching.
 
