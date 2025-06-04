@@ -1,0 +1,4 @@
+SilentBanker
+evil_script
+malicious_code
+trojan123
